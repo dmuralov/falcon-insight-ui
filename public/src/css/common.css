@@ -5,14 +5,14 @@
 
 html,
 body {
-  color: #373D42;
+  color: #393E46;
   font-family: 'Ubuntu', sans-serif;
   height: 100%;
   /* The html and body elements cannot have any padding or margin. */
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-  color: #373D42;
+  color: #393E46;
   font-family: 'Ubuntu', sans-serif;
 }
 
@@ -24,9 +24,9 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 /* Styling for the ngProgress itself */
 #ngProgress {
-  background-color: #6C9032 !important;
+  background-color: #C729FC !important;
   box-shadow: none !important;
-  color: #373D42 !important;
+  color: #393E46 !important;
   height: 3px !important;
   margin: 0;
   opacity: 0;
@@ -112,10 +112,10 @@ margin-left: 0;
 }
 
 .navbar-default .navbar-toggle .icon-bar { background-color: #fff; }
-.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {background-color: #373D42;}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {background-color: #393E46;}
 
 .navbar-default {
-  background-color: #02E8AF;
+  background-color: rgb(58, 233, 210);
   margin: 0;
   border: 0;
 }
@@ -128,7 +128,7 @@ margin-left: 0;
 }
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus {
-  background-color: #6C9032;
+  background-color: #68b6c7;
   color: #fff;
 }
 
@@ -269,7 +269,7 @@ margin-left: 0;
 }
 
 .block-id {
-  background-color: #373D42;
+  background-color: #393E46;
   border: 3px solid #FFFFFF;
   margin: 0 auto;
   width: 165px;
@@ -316,8 +316,8 @@ margin-left: 0;
   border-radius: 2px;
 }
 .btn-primary {
-  background-color: #02E8AF;
-  border: 2px solid #76AF0F;
+  background-color: rgb(58, 233, 210);
+  border: 2px solid #68b6c7;;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active,
@@ -328,7 +328,7 @@ margin-left: 0;
 .btn-danger.active, .open .dropdown-toggle.btn-danger {
   background-color: #fff;
   border: 2px solid #ccc;
-  color: #373D42;
+  color: #393E46;
 }
 
 .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default {
@@ -363,7 +363,7 @@ margin-left: 0;
 }
 
 .txvalues-primary {
-  background-color: #02E8AF;
+  background-color: rgb(58, 233, 210);
   color: #000;
 }
 
@@ -387,12 +387,12 @@ margin-left: 0;
   font-size: 14px;
   font-weight: normal;
 }
-.progress-bar-info { background-color: #02E8AF; }
+.progress-bar-info { background-color: rgb(58, 233, 210); }
 .progress-bar { color: #000; }
 
 /* Set the fixed height of the footer here */
 #footer {
-  background-color: #373D42;
+  background-color: #393E46;
   color: #fff;
   height: 51px;
   overflow: hidden;
@@ -461,7 +461,7 @@ margin-left: 0;
   border-bottom-left-radius: 2px;
   border-bottom-right-radius: 2px;
   border-top: none;
-  border: 1px solid #64920F;
+  border: 1px solid #68b6c7;
   padding: 10px 20px;
   position: absolute;
   text-align: center;
@@ -563,7 +563,7 @@ margin-left: 0;
 .btn-copy.zeroclipboard-is-active .tooltip { opacity: 1; }
 
 .tx-id {
-  background-color: #373D42;
+  background-color: #393E46;
   border: 3px solid #FFFFFF;
   margin: 0 auto;
   width: 165px;
@@ -828,7 +828,7 @@ a.v_highlight_more {
   }
   .txvalues-primary {
     background: none;
-    color: #02E8AF;
+    color: rgb(58, 233, 210);
   }
   .txvalues-default {
     background: none;
