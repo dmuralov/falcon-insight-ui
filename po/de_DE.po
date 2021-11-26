@@ -54,7 +54,7 @@ msgstr "Über insight"
 
 #: public/views/address.html
 msgid "Address"
-msgstr "Adresse"
+msgstr "Adress"
 
 #: public/views/index.html
 msgid "Age"
@@ -301,7 +301,7 @@ msgstr "Umleitung..."
 
 #: public/views/includes/header.html
 msgid "Search for block, transaction or address"
-msgstr "Suche Block, Transaktion oder Adresse"
+msgstr "Suche Block, Transaktion oder Adress"
 
 #: public/views/index.html
 msgid "See all blocks"
