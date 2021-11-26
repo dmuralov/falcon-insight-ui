@@ -54,7 +54,7 @@ msgstr "Über insight"
 
 #: public/views/address.html
 msgid "Address"
-msgstr "Adress"
+msgstr "Address"
 
 #: public/views/index.html
 msgid "Age"
@@ -212,7 +212,7 @@ msgstr "Letzte Transaktionen"
 
 #: public/views/address.html
 msgid "Loading Address Information"
-msgstr "Lade Adressinformationen"
+msgstr "Lade Addressinformationen"
 
 #: public/views/block.html
 msgid "Loading Block Information"
@@ -301,7 +301,7 @@ msgstr "Umleitung..."
 
 #: public/views/includes/header.html
 msgid "Search for block, transaction or address"
-msgstr "Suche Block, Transaktion oder Adress"
+msgstr "Suche Block, Transaktion oder Address"
 
 #: public/views/index.html
 msgid "See all blocks"
@@ -378,7 +378,7 @@ msgstr "Testnet aktiv"
 
 #: public/views/transaction/list.html
 msgid "There are no transactions involving this address."
-msgstr "Es gibt keine Transaktionen zu dieser Adressse"
+msgstr "Es gibt keine Transaktionen zu dieser Addressse"
 
 #: public/views/status.html
 msgid "Time Offset"
