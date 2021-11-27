@@ -541,7 +541,7 @@ msgstr "採掘された"
 msgid "staked on:"
 msgstr "採掘日時:"
 
-#~ msgid "(Mainchain)"
+#~ msgid "(Testchain)"
 #~ msgstr "(メインチェーン)"
 
 #~ msgid "(Orphaned)"
